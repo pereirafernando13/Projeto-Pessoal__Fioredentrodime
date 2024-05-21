@@ -1,0 +1,33 @@
+.container__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.container__list {
+    list-style-type: none;
+}
+
+.container__main {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    position: relative;
+}
+
+.container__tittle {
+}
+
+.container__paragraph {
+    border: 10px solid rgba(255, 255, 255, 0.7);
+    position: absolute;
+    padding:10px;
+    margin-top: 100px;
+    width: 40%;
+}
+
+.container__photo{
+    max-width: 300px;
+    position: absolute;
+    border: 10px solid rgba(255, 255, 255, 0.7);
+}

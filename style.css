@@ -1,0 +1,10 @@
+@import url("/style/login.css");
+@import url("/style/home.css");
+
+:root {
+    --font-primary:"Lexend Deca";
+    --color-primary: black;
+    --font-secondary:"Poppins";
+    --color-backgroud: linear-gradient(77deg, rgba(2,0,36,1) 0%, rgba(72,7,213,0.5467436974789917) 50%);
+    --test-backgroud: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+}
